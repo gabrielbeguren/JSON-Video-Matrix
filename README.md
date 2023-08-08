@@ -28,6 +28,10 @@ This repository contains Python scripts for encoding JSON data into an MP4 video
 - Adjust parameters like `frame_width`, `frame_height`, and `fps` as needed.
 - Make sure to install the required libraries using `pip install opencv-python numpy Pillow`.
 
+## Example of data matrix
+
+![](imgs/example.png)
+
 ## Credits
 
 These scripts were created to showcase JSON-to-MP4 steganography by Gabriel Bravo Eguren, aka vestelion.
