@@ -34,4 +34,4 @@ This repository contains Python scripts for encoding JSON data into an MP4 video
 
 ## Credits
 
-These scripts were created to showcase JSON-to-MP4 steganography by Gabriel Bravo Eguren, aka vestelion.
+These scripts were created to showcase JSON-to-MP4 steganography by Gabriel Bravo Eguren.
